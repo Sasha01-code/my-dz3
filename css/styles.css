@@ -235,7 +235,7 @@ body {
 }
 /* emplouments*/
 .section-employments {
-  padding: 0;
+  padding: 30;
 }
 .employments {
   display: flex;
